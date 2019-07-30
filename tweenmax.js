@@ -11,6 +11,13 @@ TweenMax.from(".arrow", 1, {
     delay: 0.7,
  });
 
+ TweenMax.from(".dod2", 1, {
+   x: 200,
+   opacity: 0,
+   delay: 0.7,
+});
+
+
  TweenMax.from(".heder", 1, {
     opacity: 0,
     delay: 0,
